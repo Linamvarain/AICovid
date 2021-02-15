@@ -1,4 +1,6 @@
-# AICovid detecting COVID-19 with Chest X-Rays using ResNet-18 CNN with Pytorch
+# AICovid 
+
+Detecting COVID-19 with Chest X-Rays using ResNet-18 CNN with Pytorch
 
 # Installation
 Please refer to install.md for installation.
