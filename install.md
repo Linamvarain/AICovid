@@ -13,5 +13,5 @@ The main requirements are listed below
 
 # Dataset 
 
-Download and save the chest-xray-pneumonia dataset from Kaggle: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database.
+Latest dataset can be directly downloaded from Kaggle: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database.
 
